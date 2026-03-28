@@ -1,16 +1,17 @@
 const airportsContainer = document.getElementById("airports-container");
 
-fetch("https://rickandmortyapi.com/api/character")
+// Fetch the local JSON of filtered airports
+fetch("airports.json")
   .then((response) => response.json())
-  .then((data) => {
-    data.results.forEach((character) => {
+  .then((airports) => {
+    airports.forEach((airport) => {
       const card = document.createElement("div");
       card.className = "card";
       card.innerHTML = `
-        <img src="${character.image}" alt="${character.name}" class="character-image">
-        <p class="character-detail"><span class="attribute">Name:</span> ${character.name}</p>
-        <p class="character-detail"><span class="attribute">Status:</span> ${character.status}</p>
-        <p class="character-detail"><span class="attribute">Species:</span> ${character.species}</p>
+        <img src="https://via.placeholder.com/150?text=${airport.iata_code || 'N/A'}" alt="${airport.name}" class="airport-image">
+        <p class="airport-detail"><span class="attribute">Name:</span> ${airport.name}</p>
+        <p class="airport-detail"><span class="attribute">IATA:</span> ${airport.iata_code || 'N/A'}</p>
+        <p class="airport-detail"><span class="attribute">Country:</span> ${airport.country}</p>
       `;
       airportsContainer.appendChild(card);
     });
