@@ -6,10 +6,11 @@ fetch("./persian_gulf_airports.json")
     airports.forEach(airport => {
       if (!airport.latitude || !airport.longitude) return;
 
+      // Card container
       const card = document.createElement("div");
       card.className = "card";
 
-      // Use IATA code or placeholder for thumbnail
+      // Thumbnail (static placeholder)
       const thumbnail = document.createElement("img");
       thumbnail.className = "airport-thumbnail";
       thumbnail.alt = airport.name;
@@ -17,21 +18,20 @@ fetch("./persian_gulf_airports.json")
       card.appendChild(thumbnail);
 
       // Airport details
-      const detailsHTML = `
+      card.insertAdjacentHTML("beforeend", `
         <p class="airport-detail"><span class="attribute">Name:</span> ${airport.name}</p>
         <p class="airport-detail"><span class="attribute">IATA:</span> ${airport.iata_code || "N/A"}</p>
         <p class="airport-detail"><span class="attribute">Country:</span> ${airport.country}</p>
-      `;
-      card.insertAdjacentHTML("beforeend", detailsHTML);
+      `);
 
-      // Click thumbnail to open full aerial map modal
+      // Click thumbnail to open Leaflet modal
       thumbnail.addEventListener("click", () => {
         const modal = document.createElement("div");
         modal.className = "map-modal";
 
-        const fullMapDiv = document.createElement("div");
-        fullMapDiv.className = "map-modal-content";
-        modal.appendChild(fullMapDiv);
+        const mapDiv = document.createElement("div");
+        mapDiv.className = "map-modal-content";
+        modal.appendChild(mapDiv);
 
         const closeBtn = document.createElement("div");
         closeBtn.className = "map-modal-close";
@@ -40,13 +40,14 @@ fetch("./persian_gulf_airports.json")
 
         document.body.appendChild(modal);
 
-        const fullMap = L.map(fullMapDiv).setView([airport.latitude, airport.longitude], 16);
+        // Initialize Leaflet map (full aerial imagery)
+        const map = L.map(mapDiv).setView([airport.latitude, airport.longitude], 16);
         L.tileLayer(
           "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
           { attribution: "Tiles © Esri" }
-        ).addTo(fullMap);
+        ).addTo(map);
 
-        L.marker([airport.latitude, airport.longitude]).addTo(fullMap);
+        L.marker([airport.latitude, airport.longitude]).addTo(map);
 
         // Close modal
         closeBtn.addEventListener("click", () => document.body.removeChild(modal));
