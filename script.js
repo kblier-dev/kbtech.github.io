@@ -5,22 +5,17 @@ fetch("persian_gulf_airports.json")
   .then((response) => response.json())
   .then((airports) => {
     airports.forEach((airport) => {
-      // Skip if coordinates are missing
       if (!airport.latitude || !airport.longitude) return;
 
       // Create airport card
       const card = document.createElement("div");
       card.className = "card";
 
-      // Create a div for Leaflet mini-map
+      // Create a div for mini-map thumbnail
       const mapDiv = document.createElement("div");
-      mapDiv.style.width = "200px";
-      mapDiv.style.height = "120px";
-      mapDiv.style.borderRadius = "8px";
-      mapDiv.style.marginBottom = "10px";
       card.appendChild(mapDiv);
 
-      // Initialize Leaflet map
+      // Initialize mini-map (satellite)
       const map = L.map(mapDiv, {
         center: [airport.latitude, airport.longitude],
         zoom: 14,
@@ -33,21 +28,56 @@ fetch("persian_gulf_airports.json")
         keyboard: false
       });
 
-      // Add OpenStreetMap tiles
-      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        maxZoom: 19
-      }).addTo(map);
+      L.tileLayer(
+        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+        { attribution: "Tiles © Esri" }
+      ).addTo(map);
 
-      // Add marker for airport location
       L.marker([airport.latitude, airport.longitude]).addTo(map);
 
-      // Add airport text details
+      // Airport details
       const detailsHTML = `
         <p class="airport-detail"><span class="attribute">Name:</span> ${airport.name}</p>
-        <p class="airport-detail"><span class="attribute">IATA:</span> ${airport.iata_code || 'N/A'}</p>
+        <p class="airport-detail"><span class="attribute">IATA:</span> ${airport.iata_code || "N/A"}</p>
         <p class="airport-detail"><span class="attribute">Country:</span> ${airport.country}</p>
       `;
       card.insertAdjacentHTML("beforeend", detailsHTML);
+
+      // Click to open full-screen modal map
+      mapDiv.style.cursor = "pointer";
+      mapDiv.addEventListener("click", () => {
+        // Create modal
+        const modal = document.createElement("div");
+        modal.className = "map-modal";
+
+        // Full map container
+        const fullMapDiv = document.createElement("div");
+        fullMapDiv.className = "map-modal-content";
+        modal.appendChild(fullMapDiv);
+
+        // Close button
+        const closeBtn = document.createElement("div");
+        closeBtn.className = "map-modal-close";
+        closeBtn.innerHTML = "&times;";
+        modal.appendChild(closeBtn);
+
+        document.body.appendChild(modal);
+
+        // Initialize full map
+        const fullMap = L.map(fullMapDiv).setView([airport.latitude, airport.longitude], 16);
+        L.tileLayer(
+          "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+          { attribution: "Tiles © Esri" }
+        ).addTo(fullMap);
+        L.marker([airport.latitude, airport.longitude]).addTo(fullMap);
+
+        // Close modal
+        closeBtn.addEventListener("click", () => document.body.removeChild(modal));
+        // Also close if click outside the map content
+        modal.addEventListener("click", (e) => {
+          if (e.target === modal) document.body.removeChild(modal);
+        });
+      });
 
       // Append card to container
       airportsContainer.appendChild(card);
