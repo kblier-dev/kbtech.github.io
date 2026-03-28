@@ -96,3 +96,12 @@ h1 {
   cursor: pointer;
   z-index: 10000;
 }
+/* New class for thumbnails */
+.airport-thumbnail {
+  width: 300px;      /* matches JS size */
+  height: 180px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  object-fit: cover;  /* ensures satellite imagery scales nicely */
+}
