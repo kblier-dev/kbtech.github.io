@@ -6,11 +6,10 @@ fetch("./persian_gulf_airports.json")
     airports.forEach(airport => {
       if (!airport.latitude || !airport.longitude) return;
 
-      // Card container
       const card = document.createElement("div");
       card.className = "card";
 
-      // Thumbnail (static placeholder)
+      // Thumbnail: static placeholder image (safe and reliable)
       const thumbnail = document.createElement("img");
       thumbnail.className = "airport-thumbnail";
       thumbnail.alt = airport.name;
@@ -24,7 +23,7 @@ fetch("./persian_gulf_airports.json")
         <p class="airport-detail"><span class="attribute">Country:</span> ${airport.country}</p>
       `);
 
-      // Click thumbnail to open Leaflet modal
+      // Click thumbnail → open full aerial map in modal
       thumbnail.addEventListener("click", () => {
         const modal = document.createElement("div");
         modal.className = "map-modal";
@@ -40,13 +39,12 @@ fetch("./persian_gulf_airports.json")
 
         document.body.appendChild(modal);
 
-        // Initialize Leaflet map (full aerial imagery)
+        // Full map
         const map = L.map(mapDiv).setView([airport.latitude, airport.longitude], 16);
         L.tileLayer(
           "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
           { attribution: "Tiles © Esri" }
         ).addTo(map);
-
         L.marker([airport.latitude, airport.longitude]).addTo(map);
 
         // Close modal
