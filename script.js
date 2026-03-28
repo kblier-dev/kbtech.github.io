@@ -16,10 +16,10 @@ fetch("./persian_gulf_airports.json")
       thumbnail.className = "airport-thumbnail";
       thumbnail.alt = airport.name;
 
-      // Use larger bounding box for better context
-      const bboxSize = 0.03; // ~3 km
-      thumbnail.src = `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${airport.longitude-bboxSize},${airport.latitude-bboxSize},${airport.longitude+bboxSize},${airport.latitude+bboxSize}&size=300,180&format=png&f=image`;
-
+      // Increase bounding box dynamically based on latitude/longitude scale
+      const bboxSizeLat = 0.05; // 5 km
+      const bboxSizeLng = 0.05; // 5 km
+      thumbnail.src = `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${airport.longitude-bboxSizeLng},${airport.latitude-bboxSizeLat},${airport.longitude+bboxSizeLng},${airport.latitude+bboxSizeLat}&size=400,240&format=png&f=image`;
       // Optional fallback if image fails
       thumbnail.onerror = () => {
         thumbnail.src = "placeholder_airport.png"; // put a placeholder in your repo
