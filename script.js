@@ -1,7 +1,7 @@
 const airportsContainer = document.getElementById("airports-container");
 
 // Fetch the Persian Gulf airports JSON
-fetch("persian_gulf_airports.json")
+fetch("./persian_gulf_airports.json")
   .then((response) => response.json())
   .then((airports) => {
     airports.forEach((airport) => {
@@ -11,29 +11,13 @@ fetch("persian_gulf_airports.json")
       const card = document.createElement("div");
       card.className = "card";
 
-      // Create a div for mini-map thumbnail
-      const mapDiv = document.createElement("div");
-      card.appendChild(mapDiv);
+      // Create thumbnail image (static satellite)
+      const thumbnail = document.createElement("img");
+      thumbnail.className = "airport-thumbnail"; // new class for CSS
+      thumbnail.alt = airport.name;
+      thumbnail.src = `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${airport.longitude-0.01},${airport.latitude-0.01},${airport.longitude+0.01},${airport.latitude+0.01}&size=200,120&format=png&f=image`;
 
-      // Initialize mini-map (satellite)
-      const map = L.map(mapDiv, {
-        center: [airport.latitude, airport.longitude],
-        zoom: 14,
-        zoomControl: false,
-        attributionControl: false,
-        dragging: false,
-        scrollWheelZoom: false,
-        doubleClickZoom: false,
-        boxZoom: false,
-        keyboard: false
-      });
-
-      L.tileLayer(
-        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
-        { attribution: "Tiles © Esri" }
-      ).addTo(map);
-
-      L.marker([airport.latitude, airport.longitude]).addTo(map);
+      card.appendChild(thumbnail);
 
       // Airport details
       const detailsHTML = `
@@ -43,14 +27,11 @@ fetch("persian_gulf_airports.json")
       `;
       card.insertAdjacentHTML("beforeend", detailsHTML);
 
-      // Click to open full-screen modal map
-      mapDiv.style.cursor = "pointer";
-      mapDiv.addEventListener("click", () => {
-        // Create modal
+      // Click thumbnail to open full-screen modal Leaflet map
+      thumbnail.addEventListener("click", () => {
         const modal = document.createElement("div");
         modal.className = "map-modal";
 
-        // Full map container
         const fullMapDiv = document.createElement("div");
         fullMapDiv.className = "map-modal-content";
         modal.appendChild(fullMapDiv);
@@ -63,7 +44,7 @@ fetch("persian_gulf_airports.json")
 
         document.body.appendChild(modal);
 
-        // Initialize full map
+        // Initialize interactive Leaflet map
         const fullMap = L.map(fullMapDiv).setView([airport.latitude, airport.longitude], 16);
         L.tileLayer(
           "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
@@ -73,7 +54,6 @@ fetch("persian_gulf_airports.json")
 
         // Close modal
         closeBtn.addEventListener("click", () => document.body.removeChild(modal));
-        // Also close if click outside the map content
         modal.addEventListener("click", (e) => {
           if (e.target === modal) document.body.removeChild(modal);
         });
