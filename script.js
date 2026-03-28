@@ -13,9 +13,17 @@ fetch("./persian_gulf_airports.json")
 
       // Create thumbnail image (static satellite)
       const thumbnail = document.createElement("img");
-      thumbnail.className = "airport-thumbnail"; // new class for CSS
+      thumbnail.className = "airport-thumbnail";
       thumbnail.alt = airport.name;
-      thumbnail.src = `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${airport.longitude-0.01},${airport.latitude-0.01},${airport.longitude+0.01},${airport.latitude+0.01}&size=200,120&format=png&f=image`;
+
+      // Use larger bounding box for better context
+      const bboxSize = 0.03; // ~3 km
+      thumbnail.src = `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${airport.longitude-bboxSize},${airport.latitude-bboxSize},${airport.longitude+bboxSize},${airport.latitude+bboxSize}&size=300,180&format=png&f=image`;
+
+      // Optional fallback if image fails
+      thumbnail.onerror = () => {
+        thumbnail.src = "placeholder_airport.png"; // put a placeholder in your repo
+      };
 
       card.appendChild(thumbnail);
 
@@ -36,7 +44,6 @@ fetch("./persian_gulf_airports.json")
         fullMapDiv.className = "map-modal-content";
         modal.appendChild(fullMapDiv);
 
-        // Close button
         const closeBtn = document.createElement("div");
         closeBtn.className = "map-modal-close";
         closeBtn.innerHTML = "&times;";
@@ -44,7 +51,6 @@ fetch("./persian_gulf_airports.json")
 
         document.body.appendChild(modal);
 
-        // Initialize interactive Leaflet map
         const fullMap = L.map(fullMapDiv).setView([airport.latitude, airport.longitude], 16);
         L.tileLayer(
           "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
@@ -59,7 +65,6 @@ fetch("./persian_gulf_airports.json")
         });
       });
 
-      // Append card to container
       airportsContainer.appendChild(card);
     });
   })
