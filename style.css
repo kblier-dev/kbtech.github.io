@@ -36,14 +36,21 @@ h1 {
   background-color: #1e1e1e; /* dark card */
   box-shadow: 0 4px 6px rgba(0,0,0,0.5);
   flex-shrink: 0; /* prevents shrinking in horizontal scroll */
+  cursor: default;
+  transition: transform 0.2s ease;
 }
 
-/* Airport map preview */
-.airport-map {
-  width: 180px;
+.card:hover {
+  transform: translateY(-5px); /* subtle hover lift effect */
+}
+
+/* Mini-map preview for airport */
+.card > div {
+  width: 200px; /* match JS thumbnail size */
   height: 120px;
   border-radius: 8px;
   margin-bottom: 10px;
+  overflow: hidden; /* clip map inside card */
 }
 
 /* Airport details */
@@ -56,4 +63,36 @@ h1 {
   font-weight: bold;
   color: #00bcd4;
   margin-right: 5px;
+}
+
+/* Modal styles for expanded map */
+.map-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.9);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.map-modal-content {
+  width: 80%;
+  height: 80%;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+/* Optional: make modal close pointer obvious */
+.map-modal-close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 10000;
 }
