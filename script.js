@@ -1,4 +1,4 @@
-const charactersContainer = document.getElementById("characters-container");
+const airportsContainer = document.getElementById("airports-container");
 
 fetch("https://rickandmortyapi.com/api/character")
   .then((response) => response.json())
@@ -12,6 +12,6 @@ fetch("https://rickandmortyapi.com/api/character")
         <p class="character-detail"><span class="attribute">Status:</span> ${character.status}</p>
         <p class="character-detail"><span class="attribute">Species:</span> ${character.species}</p>
       `;
-      charactersContainer.appendChild(card);
+      airportsContainer.appendChild(card);
     });
   });
