@@ -1,7 +1,7 @@
 /* Body & general styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #121212; /* dark background */
+  background-color: #121212;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -17,7 +17,7 @@ h1 {
 /* Airport container as horizontal scroll gallery */
 #airports-container {
   display: flex;
-  overflow-x: auto; /* horizontal scroll */
+  overflow-x: auto;
   gap: 20px;
   padding-bottom: 20px;
   scroll-behavior: smooth;
@@ -31,26 +31,17 @@ h1 {
   align-items: center;
   justify-content: center;
   padding: 10px;
-  min-width: 220px; /* fixed width for horizontal scroll */
+  min-width: 320px; /* match thumbnail width + padding */
   border-radius: 15px;
-  background-color: #1e1e1e; /* dark card */
+  background-color: #1e1e1e;
   box-shadow: 0 4px 6px rgba(0,0,0,0.5);
-  flex-shrink: 0; /* prevents shrinking in horizontal scroll */
+  flex-shrink: 0;
   cursor: default;
   transition: transform 0.2s ease;
 }
 
 .card:hover {
-  transform: translateY(-5px); /* subtle hover lift effect */
-}
-
-/* Mini-map preview for airport */
-.card > div {
-  width: 200px; /* match JS thumbnail size */
-  height: 120px;
-  border-radius: 8px;
-  margin-bottom: 10px;
-  overflow: hidden; /* clip map inside card */
+  transform: translateY(-5px);
 }
 
 /* Airport details */
@@ -63,6 +54,16 @@ h1 {
   font-weight: bold;
   color: #00bcd4;
   margin-right: 5px;
+}
+
+/* Thumbnail images */
+.airport-thumbnail {
+  width: 300px;
+  height: 180px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  object-fit: cover;
 }
 
 /* Modal styles for expanded map */
@@ -84,9 +85,10 @@ h1 {
   height: 80%;
   border-radius: 12px;
   overflow: hidden;
+  aspect-ratio: 5/3; /* maintain 300x180 ratio */
 }
 
-/* Optional: make modal close pointer obvious */
+/* Close button */
 .map-modal-close {
   position: absolute;
   top: 15px;
@@ -95,13 +97,4 @@ h1 {
   font-size: 1.5rem;
   cursor: pointer;
   z-index: 10000;
-}
-/* New class for thumbnails */
-.airport-thumbnail {
-  width: 300px;      /* matches JS size */
-  height: 180px;
-  border-radius: 8px;
-  margin-bottom: 10px;
-  cursor: pointer;
-  object-fit: cover;  /* ensures satellite imagery scales nicely */
 }
