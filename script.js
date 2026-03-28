@@ -1,28 +1,19 @@
 const airportsContainer = document.getElementById("airports-container");
 
 fetch("./persian_gulf_airports.json")
-  .then((response) => response.json())
-  .then((airports) => {
-    airports.forEach((airport) => {
+  .then(res => res.json())
+  .then(airports => {
+    airports.forEach(airport => {
       if (!airport.latitude || !airport.longitude) return;
 
       const card = document.createElement("div");
       card.className = "card";
 
-      // STATIC thumbnail image
+      // Use IATA code or placeholder for thumbnail
       const thumbnail = document.createElement("img");
       thumbnail.className = "airport-thumbnail";
       thumbnail.alt = airport.name;
-
-      // Use ESRI export for static aerial image
-      const bbox = 0.01; // approx 1km around airport
-      thumbnail.src = `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=${airport.longitude - bbox},${airport.latitude - bbox},${airport.longitude + bbox},${airport.latitude + bbox}&size=300,180&format=png&f=image`;
-      
-      // fallback placeholder
-      thumbnail.onerror = () => {
-        thumbnail.src = "placeholder_airport.png";
-      };
-
+      thumbnail.src = `https://via.placeholder.com/300x180?text=${airport.iata_code || "N/A"}`;
       card.appendChild(thumbnail);
 
       // Airport details
@@ -33,7 +24,7 @@ fetch("./persian_gulf_airports.json")
       `;
       card.insertAdjacentHTML("beforeend", detailsHTML);
 
-      // Click to open full-screen Leaflet map
+      // Click thumbnail to open full aerial map modal
       thumbnail.addEventListener("click", () => {
         const modal = document.createElement("div");
         modal.className = "map-modal";
@@ -57,8 +48,9 @@ fetch("./persian_gulf_airports.json")
 
         L.marker([airport.latitude, airport.longitude]).addTo(fullMap);
 
+        // Close modal
         closeBtn.addEventListener("click", () => document.body.removeChild(modal));
-        modal.addEventListener("click", (e) => {
+        modal.addEventListener("click", e => {
           if (e.target === modal) document.body.removeChild(modal);
         });
       });
@@ -66,4 +58,4 @@ fetch("./persian_gulf_airports.json")
       airportsContainer.appendChild(card);
     });
   })
-  .catch((error) => console.error("Error fetching airports:", error));
+  .catch(error => console.error("Error fetching airports:", error));
