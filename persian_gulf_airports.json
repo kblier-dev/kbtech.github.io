@@ -1,0 +1,3537 @@
+[
+  {
+    "name": "Batha Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 24.214693,
+    "longitude": 51.44989
+  },
+  {
+    "name": "Burj al Arab Resort Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.141327,
+    "longitude": 55.185496
+  },
+  {
+    "name": "Skydive Dubai Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.090037,
+    "longitude": 55.132345
+  },
+  {
+    "name": "Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.122566,
+    "longitude": 55.174681
+  },
+  {
+    "name": "Kempinski Emirates Palace Twin Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.462095,
+    "longitude": 54.320529
+  },
+  {
+    "name": "Jebel Ali Seaplane Base",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.988967,
+    "longitude": 55.023796
+  },
+  {
+    "name": "Al Ghuwaifat Border Post Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.120353,
+    "longitude": 51.600516
+  },
+  {
+    "name": "Al Ghuwaifat Customs Post Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.128339,
+    "longitude": 51.616767
+  },
+  {
+    "name": "Delma Hospital Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.4756,
+    "longitude": 52.3101
+  },
+  {
+    "name": "Schumacher Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.221807,
+    "longitude": 55.138836
+  },
+  {
+    "name": "Falcon Helitours Palm Jumeirah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12763,
+    "longitude": 55.113517
+  },
+  {
+    "name": "Waldorf Astoria Dubai Palm Jumeirah Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.133372,
+    "longitude": 55.150379
+  },
+  {
+    "name": "Oceana Palm Jumeirah Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.110083,
+    "longitude": 55.135169
+  },
+  {
+    "name": "Ghantoot Racing & Polo Club Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.86824,
+    "longitude": 54.905556
+  },
+  {
+    "name": "Golden Tulip Al Jazira Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.858628,
+    "longitude": 54.894996
+  },
+  {
+    "name": "Ghantoot Hotel 1 Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.866038,
+    "longitude": 54.88826
+  },
+  {
+    "name": "Ghantoot Hotel 2 Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.865417,
+    "longitude": 54.882283
+  },
+  {
+    "name": "Riyadh Palace Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.894949,
+    "longitude": 54.860294
+  },
+  {
+    "name": "Dubai Festival City Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.220765,
+    "longitude": 55.349227
+  },
+  {
+    "name": "Yas Marina Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.468368,
+    "longitude": 54.609561
+  },
+  {
+    "name": "Yas Marina Circuit Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.469136,
+    "longitude": 54.603443
+  },
+  {
+    "name": "Al Mushrif Palace Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.452066,
+    "longitude": 54.377368
+  },
+  {
+    "name": "Al Forsan Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.408318,
+    "longitude": 54.543228
+  },
+  {
+    "name": "Upper Yasat Island Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.221075,
+    "longitude": 52.006719
+  },
+  {
+    "name": "Al Sila Former Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.068301,
+    "longitude": 51.762519
+  },
+  {
+    "name": "Al Qaffay Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.58956,
+    "longitude": 51.727293
+  },
+  {
+    "name": "Abu Dhabi Airfield",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45639,
+    "longitude": 54.38989
+  },
+  {
+    "name": "Crown Prince Court Helipad 1",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45362,
+    "longitude": 54.34601
+  },
+  {
+    "name": "Crown Prince Court Helipad 2",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45439,
+    "longitude": 54.34625
+  },
+  {
+    "name": "Federal National Council Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46258,
+    "longitude": 54.33235
+  },
+  {
+    "name": "Nation Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.463993,
+    "longitude": 54.327638
+  },
+  {
+    "name": "Sheikh Khalifa Medical City Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.47075,
+    "longitude": 54.3633
+  },
+  {
+    "name": "Paragon Bay Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.4898,
+    "longitude": 54.39109
+  },
+  {
+    "name": "Paragon Bay North Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.49421,
+    "longitude": 54.39376
+  },
+  {
+    "name": "Sea Palace Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46919,
+    "longitude": 54.41083
+  },
+  {
+    "name": "Qasr al Bahr Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46465,
+    "longitude": 54.40819
+  },
+  {
+    "name": "Rixos Palm Jumeirah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.11907,
+    "longitude": 55.15236
+  },
+  {
+    "name": "Waldorf Astoria Dubai Palm Jumeirah Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.13335,
+    "longitude": 55.15038
+  },
+  {
+    "name": "Ajman Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.400838,
+    "longitude": 55.440029
+  },
+  {
+    "name": "Safiya Beach Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.424981,
+    "longitude": 55.471788
+  },
+  {
+    "name": "Umm al-Quwain Government Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.513418,
+    "longitude": 55.592879
+  },
+  {
+    "name": "Sheikh Khalifa Hall Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.506541,
+    "longitude": 55.597667
+  },
+  {
+    "name": "Sharjah Government Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.35626,
+    "longitude": 55.425642
+  },
+  {
+    "name": "Al Dana Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.3344,
+    "longitude": 55.388949
+  },
+  {
+    "name": "Al Batha Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.334192,
+    "longitude": 55.389197
+  },
+  {
+    "name": "Gulf Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.335051,
+    "longitude": 55.38877
+  },
+  {
+    "name": "United Arab Bank Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.335952,
+    "longitude": 55.38784
+  },
+  {
+    "name": "Sultaco Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.337221,
+    "longitude": 55.388855
+  },
+  {
+    "name": "Sharjah Police Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.325378,
+    "longitude": 55.462331
+  },
+  {
+    "name": "Ajman Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.394986,
+    "longitude": 55.441451
+  },
+  {
+    "name": "Sharjah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.343769,
+    "longitude": 55.374724
+  },
+  {
+    "name": "Al Saud Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.363744,
+    "longitude": 55.391514
+  },
+  {
+    "name": "Al Majarrah Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.363914,
+    "longitude": 55.391653
+  },
+  {
+    "name": "Al Falasi Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.363779,
+    "longitude": 55.392614
+  },
+  {
+    "name": "Bel Rasheed Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.342979,
+    "longitude": 55.385882
+  },
+  {
+    "name": "Al Ferasa Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.342531,
+    "longitude": 55.386467
+  },
+  {
+    "name": "Golden Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.341498,
+    "longitude": 55.385799
+  },
+  {
+    "name": "Latifa Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.338862,
+    "longitude": 55.386517
+  },
+  {
+    "name": "Ali Al Qubaisi Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.338382,
+    "longitude": 55.387252
+  },
+  {
+    "name": "Saleh bin Lahej Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.337328,
+    "longitude": 55.38774
+  },
+  {
+    "name": "Crystal Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.337354,
+    "longitude": 55.387194
+  },
+  {
+    "name": "Buheira Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.33234,
+    "longitude": 55.390495
+  },
+  {
+    "name": "Business Tower Sharjah Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.32954,
+    "longitude": 55.391399
+  },
+  {
+    "name": "Al Majaz Pearl Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.329317,
+    "longitude": 55.391708
+  },
+  {
+    "name": "Camp Falaj Hazzaa Airfield",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.189055,
+    "longitude": 55.715891
+  },
+  {
+    "name": "Technology College Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.173952,
+    "longitude": 55.720791
+  },
+  {
+    "name": "Al Sarouj Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.204892,
+    "longitude": 55.78561
+  },
+  {
+    "name": "Sheikh Khalifa Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.22204,
+    "longitude": 55.756117
+  },
+  {
+    "name": "Al Ain Police Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.233273,
+    "longitude": 55.741654
+  },
+  {
+    "name": "Sheikh Khalifa Mosque Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.226351,
+    "longitude": 55.745309
+  },
+  {
+    "name": "Al Jimi Civic Center Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.240232,
+    "longitude": 55.737016
+  },
+  {
+    "name": "Al Ain Tawam Hospital North Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.197767,
+    "longitude": 55.647577
+  },
+  {
+    "name": "Al Ain Tawam Hospital South Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.193627,
+    "longitude": 55.649822
+  },
+  {
+    "name": "Al Maqam Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.172039,
+    "longitude": 55.64404
+  },
+  {
+    "name": "Al Ain Feed Mill Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.339833,
+    "longitude": 55.751537
+  },
+  {
+    "name": "Mezyad Police Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.028763,
+    "longitude": 55.846326
+  },
+  {
+    "name": "Al Husayn Border Crossing Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.877845,
+    "longitude": 56.277941
+  },
+  {
+    "name": "Khatmat Malaha Bording Crossing Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.983315,
+    "longitude": 56.36033
+  },
+  {
+    "name": "Fujairah Naval Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.254273,
+    "longitude": 56.36275
+  },
+  {
+    "name": "Masafi Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.297628,
+    "longitude": 56.168715
+  },
+  {
+    "name": "Abu Al Abyad Airfield",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.182347,
+    "longitude": 53.867532
+  },
+  {
+    "name": "Khardal Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.435946,
+    "longitude": 51.543313
+  },
+  {
+    "name": "Nad Al Sheba Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.11475,
+    "longitude": 55.29435
+  },
+  {
+    "name": "Ghantoot Naval Airfield",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.88443,
+    "longitude": 54.84281
+  },
+  {
+    "name": "Marawah Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.27215,
+    "longitude": 53.32545
+  },
+  {
+    "name": "Lower Yasat Island Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.18884,
+    "longitude": 51.99655
+  },
+  {
+    "name": "Ras Ghumais Air Base",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.34092,
+    "longitude": 51.60276
+  },
+  {
+    "name": "Dr. Sultan Al Qasimi Centre Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.281026,
+    "longitude": 55.468881
+  },
+  {
+    "name": "Higher Colleges of Technology Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.2925,
+    "longitude": 55.47717
+  },
+  {
+    "name": "Dubai Safari Park Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.17426,
+    "longitude": 55.45979
+  },
+  {
+    "name": "Al Sila Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.0433,
+    "longitude": 51.75707
+  },
+  {
+    "name": "Bu Tinah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.628764,
+    "longitude": 53.048079
+  },
+  {
+    "name": "Mubarraz Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45684,
+    "longitude": 53.37373
+  },
+  {
+    "name": "Salahah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.2008,
+    "longitude": 53.53772
+  },
+  {
+    "name": "Ras Bu Kushayshah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.30378,
+    "longitude": 54.18142
+  },
+  {
+    "name": "Qassar Bu Sheyarrah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.37842,
+    "longitude": 54.34751
+  },
+  {
+    "name": "Al Mirfa Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.08413,
+    "longitude": 53.50017
+  },
+  {
+    "name": "Diynah Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.95,
+    "longitude": 52.399
+  },
+  {
+    "name": "Sheikh Hamdan Private Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.19858,
+    "longitude": 55.22908
+  },
+  {
+    "name": "Sheikh Khalifa Specialty Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.62272,
+    "longitude": 55.84052
+  },
+  {
+    "name": "Al Dhaid Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.31346,
+    "longitude": 55.86396
+  },
+  {
+    "name": "Al Dhaid Palace Central Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.315298,
+    "longitude": 55.870014
+  },
+  {
+    "name": "Al Dhaid Palace East Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.31472,
+    "longitude": 55.87334
+  },
+  {
+    "name": "Falaj Al Mualla Fort Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.35175,
+    "longitude": 55.84985
+  },
+  {
+    "name": "Al Dhaid Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.27907,
+    "longitude": 55.89288
+  },
+  {
+    "name": "Aeroprakt Private Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.26895,
+    "longitude": 55.92562
+  },
+  {
+    "name": "Sheikh Khalifa General Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.50068,
+    "longitude": 55.59768
+  },
+  {
+    "name": "Umm al-Quwain Marine Old Town Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.60024,
+    "longitude": 55.57988
+  },
+  {
+    "name": "Umm al-Quwain Dewan Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.5715,
+    "longitude": 55.56704
+  },
+  {
+    "name": "54 Sheik Ahmed Bin Rashid Al Moalla Street Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.55533,
+    "longitude": 55.56211
+  },
+  {
+    "name": "Sheikh Rashid bin Ahmed Al Mualla Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.52502,
+    "longitude": 55.56231
+  },
+  {
+    "name": "Leatain 2 Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.51989,
+    "longitude": 55.5679
+  },
+  {
+    "name": "SEHA Sharjah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.31817,
+    "longitude": 55.59855
+  },
+  {
+    "name": "Sharjah Police Headquarters Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.32108,
+    "longitude": 55.59935
+  },
+  {
+    "name": "Al Qassimi Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.34018,
+    "longitude": 55.43171
+  },
+  {
+    "name": "Al Mirfa Power and Desalinization Plant Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.1134,
+    "longitude": 53.44088
+  },
+  {
+    "name": "Etihad Rail Depot Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.05161,
+    "longitude": 53.33346
+  },
+  {
+    "name": "Khasbat al Reem Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.12818,
+    "longitude": 53.27715
+  },
+  {
+    "name": "Qareen al Aish Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.16568,
+    "longitude": 53.14781
+  },
+  {
+    "name": "Al Ruwais Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.101287,
+    "longitude": 52.738266
+  },
+  {
+    "name": "Al Dhafra Beach Hotel Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.16273,
+    "longitude": 52.64576
+  },
+  {
+    "name": "Masafi Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.29812,
+    "longitude": 56.16429
+  },
+  {
+    "name": "Kalba Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.03436,
+    "longitude": 56.3433
+  },
+  {
+    "name": "Sheikh Khalifa Hospital Masfout Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.8199,
+    "longitude": 56.0742
+  },
+  {
+    "name": "Dibba Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.58825,
+    "longitude": 56.26447
+  },
+  {
+    "name": "ADNOC Upper Zakum West Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.83324,
+    "longitude": 53.49706
+  },
+  {
+    "name": "ADNOC Offshore Central Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.84651,
+    "longitude": 53.64946
+  },
+  {
+    "name": "ADNOC Offshore South Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.798385,
+    "longitude": 53.726775
+  },
+  {
+    "name": "ADNOC Offshore North Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.903729,
+    "longitude": 53.720923
+  },
+  {
+    "name": "SARB North Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.79665,
+    "longitude": 53.210654
+  },
+  {
+    "name": "SARB South Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.737717,
+    "longitude": 53.197539
+  },
+  {
+    "name": "Camp Al Hamra Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.05377,
+    "longitude": 52.44858
+  },
+  {
+    "name": "Shuweihat Power Complex Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.15646,
+    "longitude": 52.56739
+  },
+  {
+    "name": "Erth Abu Dhabi Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.4038,
+    "longitude": 54.4718
+  },
+  {
+    "name": "Sheikh Hazza bin Zayed Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.39592,
+    "longitude": 54.48453
+  },
+  {
+    "name": "First Abu Dhabi Bank Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.41278,
+    "longitude": 54.46506
+  },
+  {
+    "name": "Zayed Military Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.42143,
+    "longitude": 54.42859
+  },
+  {
+    "name": "Al Qurm Resort Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.41836,
+    "longitude": 54.40504
+  },
+  {
+    "name": "Ministry of Foreign Affairs and International Cooperation Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45416,
+    "longitude": 54.3307
+  },
+  {
+    "name": "Shati as Sayyidat Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46149,
+    "longitude": 54.30173
+  },
+  {
+    "name": "Qasr al Watan Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45634,
+    "longitude": 54.30382
+  },
+  {
+    "name": "Supreme Council for National Security Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45488,
+    "longitude": 54.30535
+  },
+  {
+    "name": "Qasr al Watan Lawn Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46027,
+    "longitude": 54.31096
+  },
+  {
+    "name": "Sheikh Sultan bin Zayed I Mosque Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45068,
+    "longitude": 54.34783
+  },
+  {
+    "name": "ADNOC HQ Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46201,
+    "longitude": 54.32404
+  },
+  {
+    "name": "Founders Memorial Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46249,
+    "longitude": 54.3214
+  },
+  {
+    "name": "Abu Dhabi Helicopter Tour Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.47796,
+    "longitude": 54.32805
+  },
+  {
+    "name": "InterContinental Abu Dhabi Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.4576,
+    "longitude": 54.32894
+  },
+  {
+    "name": "InterContinental Abu Dhabi Marina Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.45734,
+    "longitude": 54.32725
+  },
+  {
+    "name": "Al Manhal Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.47829,
+    "longitude": 54.36139
+  },
+  {
+    "name": "Burjeel Medical City Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.35473,
+    "longitude": 54.53849
+  },
+  {
+    "name": "Yas Island Civil Defence Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.49544,
+    "longitude": 54.60364
+  },
+  {
+    "name": "Sheikh Ahmed al-Nuaimi Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.39841,
+    "longitude": 55.5302
+  },
+  {
+    "name": "Fairmont Ajman South Jetty Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.41837,
+    "longitude": 55.4368
+  },
+  {
+    "name": "Fairmont Ajman North Jetty Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.41974,
+    "longitude": 55.43774
+  },
+  {
+    "name": "Ajman Ruler's Divan Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.418716,
+    "longitude": 55.442015
+  },
+  {
+    "name": "Ajman Hotel Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.42565,
+    "longitude": 55.44226
+  },
+  {
+    "name": "Sheikh Rashid bin Humaid al-Nuaimi Mosque Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.40138,
+    "longitude": 55.43938
+  },
+  {
+    "name": "Sheikh Khalifa Central Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.14824,
+    "longitude": 56.35365
+  },
+  {
+    "name": "Al Hail Corniche Tower Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12752,
+    "longitude": 56.35495
+  },
+  {
+    "name": "City Center Building Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12345,
+    "longitude": 56.32272
+  },
+  {
+    "name": "Nama Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12277,
+    "longitude": 56.32215
+  },
+  {
+    "name": "Farouj al Wadi Building Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12273,
+    "longitude": 56.32392
+  },
+  {
+    "name": "Creative Tower Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12267,
+    "longitude": 56.32483
+  },
+  {
+    "name": "Chocolate Palace Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.12273,
+    "longitude": 56.32079
+  },
+  {
+    "name": "Festival Square Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.13139,
+    "longitude": 56.31949
+  },
+  {
+    "name": "Fujairah Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.13477,
+    "longitude": 56.32165
+  },
+  {
+    "name": "Ibrahim bin Hamad Obaidullah Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.79653,
+    "longitude": 55.98167
+  },
+  {
+    "name": "Wadi Bih Military Camp Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.83497,
+    "longitude": 56.1238
+  },
+  {
+    "name": "Al Muzoon West Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.41685,
+    "longitude": 54.42005
+  },
+  {
+    "name": "Al Muzoon Central Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.41212,
+    "longitude": 54.43895
+  },
+  {
+    "name": "Al Muzoon East Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.40972,
+    "longitude": 54.44253
+  },
+  {
+    "name": "Al Fahim Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.4479,
+    "longitude": 54.34828
+  },
+  {
+    "name": "Al Bateen Palace West Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.44025,
+    "longitude": 54.35467
+  },
+  {
+    "name": "Al Bateen Palace West Inner Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.44205,
+    "longitude": 54.35689
+  },
+  {
+    "name": "Al Bateen PGC Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.448,
+    "longitude": 54.35629
+  },
+  {
+    "name": "Khorfakkan Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.33549,
+    "longitude": 56.34148
+  },
+  {
+    "name": "Ministry of Interior Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.42173,
+    "longitude": 54.42416
+  },
+  {
+    "name": "Anantara Sir Bani Yas Island Al Sahel Villa Resort Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.32627,
+    "longitude": 52.56608
+  },
+  {
+    "name": "Anantara Sir Bani Yas Island Al Yamm Villa Resort Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.34086,
+    "longitude": 52.64339
+  },
+  {
+    "name": "Sir Bani Yas Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.27183,
+    "longitude": 52.60181
+  },
+  {
+    "name": "Al Rahba Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.5745,
+    "longitude": 54.69509
+  },
+  {
+    "name": "Rashid bin Saeed Al-Maktoum Naval College Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.69684,
+    "longitude": 54.66605
+  },
+  {
+    "name": "Al Sadr Port North Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.70562,
+    "longitude": 54.6599
+  },
+  {
+    "name": "Al Fattan Marine Services Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.70173,
+    "longitude": 54.66023
+  },
+  {
+    "name": "Dolphin Taweelah Receiving Facility Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.75333,
+    "longitude": 54.67817
+  },
+  {
+    "name": "Jebel Ali Naval Base Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.99932,
+    "longitude": 55.04522
+  },
+  {
+    "name": "Jazirat al-Qamar (Crescent Moon Island) Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.31078,
+    "longitude": 54.66332
+  },
+  {
+    "name": "Al Dara Border Crossing Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 26.0496,
+    "longitude": 56.08661
+  },
+  {
+    "name": "ADNOC Helipad South",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.84254,
+    "longitude": 53.649421
+  },
+  {
+    "name": "Zakum West Super Complex",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.860175,
+    "longitude": 53.610931
+  },
+  {
+    "name": "Upper Zakum production facility",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.835355,
+    "longitude": 53.613794
+  },
+  {
+    "name": "Helipads (3x)",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.383142,
+    "longitude": 53.389907
+  },
+  {
+    "name": "Helipads",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.392927,
+    "longitude": 53.418419
+  },
+  {
+    "name": "Offshore Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.805235,
+    "longitude": 53.726433
+  },
+  {
+    "name": "Offshore Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.780052,
+    "longitude": 53.673363
+  },
+  {
+    "name": "Offshore Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.897336,
+    "longitude": 53.722265
+  },
+  {
+    "name": "Zakum Central Supercomplex",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.859981,
+    "longitude": 53.697631
+  },
+  {
+    "name": "Offshore Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.902908,
+    "longitude": 53.718284
+  },
+  {
+    "name": "Al Dhannah Police Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.097556,
+    "longitude": 52.652299
+  },
+  {
+    "name": "Al Dhannah Military Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.101299,
+    "longitude": 52.649735
+  },
+  {
+    "name": "Andaz Capital Gate Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.418764,
+    "longitude": 54.43482
+  },
+  {
+    "name": "Sas Al Nakheel Air Base",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.44128,
+    "longitude": 54.51696
+  },
+  {
+    "name": "President Joko Widodo Mosque Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.422771,
+    "longitude": 54.436072
+  },
+  {
+    "name": "Marina/ADNEC Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.416929,
+    "longitude": 54.433781
+  },
+  {
+    "name": "SkyDive Dubai Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.091723,
+    "longitude": 55.134606
+  },
+  {
+    "name": "SkyDive Dubai Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.091723,
+    "longitude": 55.134606
+  },
+  {
+    "name": "Ras al Khaimah Al Hamra Seaplane Base",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.691,
+    "longitude": 55.778
+  },
+  {
+    "name": "Umm Al Quwain Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.57715,
+    "longitude": 55.65068
+  },
+  {
+    "name": "Dubai Jetman Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.904402,
+    "longitude": 55.538491
+  },
+  {
+    "name": "Zayed Military Hospital Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.18459,
+    "longitude": 55.780014
+  },
+  {
+    "name": "Zayed Military College",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.150273,
+    "longitude": 55.787056
+  },
+  {
+    "name": "Dubai Creek Seaplane Base",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.242222,
+    "longitude": 55.331389
+  },
+  {
+    "name": "Abdullah bin Omran Hospital Helipad",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.646182,
+    "longitude": 55.957911
+  },
+  {
+    "name": "Julphar West Tower Helistop",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.791455,
+    "longitude": 55.959487
+  },
+  {
+    "name": "Julphar East Tower Helistop",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.791259,
+    "longitude": 55.960147
+  },
+  {
+    "name": "Al Hamra Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.68227,
+    "longitude": 55.77373
+  },
+  {
+    "name": "Dubai Seaplane Terminal",
+    "iata_code": "DST",
+    "country": "AE",
+    "latitude": 25.263,
+    "longitude": 55.272
+  },
+  {
+    "name": "Makasib Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.66278,
+    "longitude": 51.82135
+  },
+  {
+    "name": "(Duplicate)Makasib Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.66278,
+    "longitude": 51.82135
+  },
+  {
+    "name": "Umm al Ghumaghin Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.38398,
+    "longitude": 51.57804
+  },
+  {
+    "name": "Huwaysat Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.39349,
+    "longitude": 51.50262
+  },
+  {
+    "name": "Ghagha Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.40456,
+    "longitude": 51.53504
+  },
+  {
+    "name": "Al Hamra Southwest Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.03618,
+    "longitude": 52.405671
+  },
+  {
+    "name": "Al Hamra Administrative Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.040014,
+    "longitude": 52.412834
+  },
+  {
+    "name": "Al Hamra Search and Rescue Helibase",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.044835,
+    "longitude": 52.413874
+  },
+  {
+    "name": "Al Hamra South Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.041152,
+    "longitude": 52.418277
+  },
+  {
+    "name": "Ruwais Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.088167,
+    "longitude": 52.629706
+  },
+  {
+    "name": "Lake Ruwais Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.088839,
+    "longitude": 52.647216
+  },
+  {
+    "name": "ERC Emergency Response Center Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.1132,
+    "longitude": 52.60845
+  },
+  {
+    "name": "Al Dhannah Defense Base Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.060193,
+    "longitude": 52.721389
+  },
+  {
+    "name": "Al Sila Helport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.083354,
+    "longitude": 51.759242
+  },
+  {
+    "name": "Urwa bin Masood Mosque Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.16861,
+    "longitude": 52.63127
+  },
+  {
+    "name": "Al Mirfa Hotel Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.09959,
+    "longitude": 53.47776
+  },
+  {
+    "name": "Mughaira Palace Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.07724,
+    "longitude": 53.53983
+  },
+  {
+    "name": "Tarif Police Station Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.05365,
+    "longitude": 53.76486
+  },
+  {
+    "name": "Tarif Military Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.03914,
+    "longitude": 53.7801
+  },
+  {
+    "name": "Al Nouf Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.30812,
+    "longitude": 54.14797
+  },
+  {
+    "name": "Abu Al Abyad Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.17493,
+    "longitude": 54.00593
+  },
+  {
+    "name": "Al Maya Island and Resort Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.40932,
+    "longitude": 54.25488
+  },
+  {
+    "name": "Paf Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.44278,
+    "longitude": 54.25842
+  },
+  {
+    "name": "Al Muqatra Military Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.22575,
+    "longitude": 54.47699
+  },
+  {
+    "name": "Saadiyat Beach Palace Private Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.53703,
+    "longitude": 54.41742
+  },
+  {
+    "name": "Manarat Al Saadiyat Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.535597,
+    "longitude": 54.418743
+  },
+  {
+    "name": "Zayed National Museum Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.52959,
+    "longitude": 54.40884
+  },
+  {
+    "name": "Layali Ramadan Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.53567,
+    "longitude": 54.41537
+  },
+  {
+    "name": "Saadiyat Beach Golf Club Private Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.54854,
+    "longitude": 54.4396
+  },
+  {
+    "name": "Saadiyat Beach Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.55434,
+    "longitude": 54.4457
+  },
+  {
+    "name": "Saadiyat Beach North Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.58722,
+    "longitude": 54.47466
+  },
+  {
+    "name": "Ras Al Mohsana Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.59463,
+    "longitude": 54.47284
+  },
+  {
+    "name": "Jubail Island Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.535678,
+    "longitude": 54.489029
+  },
+  {
+    "name": "Yas Island Beach Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.50668,
+    "longitude": 54.58838
+  },
+  {
+    "name": "Ghanadhah Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.83368,
+    "longitude": 54.75527
+  },
+  {
+    "name": "Dubai Natural Gas Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.02167,
+    "longitude": 55.0788
+  },
+  {
+    "name": "Dubai Electricity and Water Authority Jebel Ali Power Station Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.06907,
+    "longitude": 55.12303
+  },
+  {
+    "name": "Dubai Ruler's Divan Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.264837,
+    "longitude": 55.298631
+  },
+  {
+    "name": "Cameron Garden Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.26536,
+    "longitude": 55.29884
+  },
+  {
+    "name": "Al Raha Heliport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.72008,
+    "longitude": 55.83235
+  },
+  {
+    "name": "Yas Island Seaplane Base",
+    "iata_code": "AYM",
+    "country": "AE",
+    "latitude": 24.467,
+    "longitude": 54.6103
+  },
+  {
+    "name": "Bahrain International Circuit Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.029738,
+    "longitude": 50.511709
+  },
+  {
+    "name": "Riffa Air Base",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.107242,
+    "longitude": 50.578968
+  },
+  {
+    "name": "Jidda Island West Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.19554,
+    "longitude": 50.39748
+  },
+  {
+    "name": "Jidda Island South Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.190016,
+    "longitude": 50.406708
+  },
+  {
+    "name": "King Hamad University Hospital Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.263023,
+    "longitude": 50.602448
+  },
+  {
+    "name": "Bahrain Defense Force Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.18973,
+    "longitude": 50.586
+  },
+  {
+    "name": "Block 997 Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 25.865112,
+    "longitude": 50.553293
+  },
+  {
+    "name": "Block 998 Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 25.861811,
+    "longitude": 50.551195
+  },
+  {
+    "name": "Um al Nasaan Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.164161,
+    "longitude": 50.412375
+  },
+  {
+    "name": "Ritz-Carlton Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.248424,
+    "longitude": 50.535839
+  },
+  {
+    "name": "Bahrain Customs HQ Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.224268,
+    "longitude": 50.675384
+  },
+  {
+    "name": "Alghurayfah Navy Base Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.200727,
+    "longitude": 50.611342
+  },
+  {
+    "name": "Amwaj Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.278596,
+    "longitude": 50.666969
+  },
+  {
+    "name": "Hawar Island Heliport",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 25.72041,
+    "longitude": 50.795782
+  },
+  {
+    "name": "Hawar Island Police Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 25.721636,
+    "longitude": 50.790086
+  },
+  {
+    "name": "Bahrain International Karting Circuit Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.025253,
+    "longitude": 50.505481
+  },
+  {
+    "name": "Momento Restaurant Helipad North",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.003185,
+    "longitude": 50.515947
+  },
+  {
+    "name": "Momento Restaurant Helipad South",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.002679,
+    "longitude": 50.515619
+  },
+  {
+    "name": "Bahrain International Circuit South Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.027139,
+    "longitude": 50.511331
+  },
+  {
+    "name": "Bahrain International Karting Circuit Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.024461,
+    "longitude": 50.506666
+  },
+  {
+    "name": "Bahrain International Circuit South Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.027766,
+    "longitude": 50.511129
+  },
+  {
+    "name": "Sheik Isa Air Base Helipad",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 25.946174,
+    "longitude": 50.608078
+  },
+  {
+    "name": "Hoseynaki Military Airfield",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.099199,
+    "longitude": 51.035301
+  },
+  {
+    "name": "Ab Pakhsh Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.375799,
+    "longitude": 51.067501
+  },
+  {
+    "name": "Goreh Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.907236,
+    "longitude": 50.427847
+  },
+  {
+    "name": "Sarvestan Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.235207,
+    "longitude": 53.127337
+  },
+  {
+    "name": "Hendorabi Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.68653,
+    "longitude": 53.60539
+  },
+  {
+    "name": "Bahregan Air Base",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.90889,
+    "longitude": 50.85616
+  },
+  {
+    "name": "Farsi Island Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.992575,
+    "longitude": 50.172131
+  },
+  {
+    "name": "Parsiyan Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.22208,
+    "longitude": 53.02638
+  },
+  {
+    "name": "Qeshm Blue Sky Tourism Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.93232,
+    "longitude": 56.24459
+  },
+  {
+    "name": "Shohada Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.58171,
+    "longitude": 54.9134
+  },
+  {
+    "name": "Konartakhteh Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.55221,
+    "longitude": 51.39436
+  },
+  {
+    "name": "Khark Oil Industry Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.25446,
+    "longitude": 50.32023
+  },
+  {
+    "name": "Amir Al Momenin Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.59029,
+    "longitude": 50.5584
+  },
+  {
+    "name": "Qaem Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.83819,
+    "longitude": 52.58915
+  },
+  {
+    "name": "Karzin Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.4315,
+    "longitude": 53.0847
+  },
+  {
+    "name": "Gahkom Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.1716,
+    "longitude": 55.82397
+  },
+  {
+    "name": "Khalij-e Fars (Persian Gulf) Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.21015,
+    "longitude": 56.33501
+  },
+  {
+    "name": "Shahid Mohammadi Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.19365,
+    "longitude": 56.29807
+  },
+  {
+    "name": "Fin Agricultural Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.61734,
+    "longitude": 55.90797
+  },
+  {
+    "name": "Khatam Anbiya Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.23665,
+    "longitude": 56.57679
+  },
+  {
+    "name": "Tashkuye Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.129664,
+    "longitude": 55.440938
+  },
+  {
+    "name": "Dar Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.064918,
+    "longitude": 55.845244
+  },
+  {
+    "name": "Shamsabad Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.527426,
+    "longitude": 53.36493
+  },
+  {
+    "name": "Tonb-e Kochak Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.24331,
+    "longitude": 55.14556
+  },
+  {
+    "name": "Tonb-e Bozorg Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.25836,
+    "longitude": 55.31579
+  },
+  {
+    "name": "Qeshm Air Base",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.70306,
+    "longitude": 55.9516
+  },
+  {
+    "name": "Hasan Langi-ye Bala Police Station Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.39015,
+    "longitude": 56.91369
+  },
+  {
+    "name": "Former Kish Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.5491,
+    "longitude": 53.97661
+  },
+  {
+    "name": "Lavan Helicopter Base",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.79664,
+    "longitude": 53.3838
+  },
+  {
+    "name": "Rostamani Parsiyan Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.17552,
+    "longitude": 53.04576
+  },
+  {
+    "name": "Imam Khomeini Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.37567,
+    "longitude": 52.78668
+  },
+  {
+    "name": "Asalouyeh Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.47385,
+    "longitude": 52.61568
+  },
+  {
+    "name": "Bandar-e Mogham Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.97077,
+    "longitude": 53.48921
+  },
+  {
+    "name": "Imam Khomeini Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.85606,
+    "longitude": 52.04695
+  },
+  {
+    "name": "Imam Ali Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.92862,
+    "longitude": 50.82229
+  },
+  {
+    "name": "Khargo Airstrip",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.33337,
+    "longitude": 50.35069
+  },
+  {
+    "name": "Bayda Agricultural Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.92596,
+    "longitude": 52.49911
+  },
+  {
+    "name": "Lapui Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.80889,
+    "longitude": 52.66683
+  },
+  {
+    "name": "Seyf Abad Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.2824,
+    "longitude": 52.96275
+  },
+  {
+    "name": "Imam Hasan al-Mojtaba Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.74251,
+    "longitude": 54.55593
+  },
+  {
+    "name": "Mehararan Oil Transfer Facility Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.5816,
+    "longitude": 55.77152
+  },
+  {
+    "name": "Imam Reza Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.44055,
+    "longitude": 55.70242
+  },
+  {
+    "name": "Oghab 44 Airbase",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.04816,
+    "longitude": 55.521791
+  },
+  {
+    "name": "Choghadak Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.979106,
+    "longitude": 50.988686
+  },
+  {
+    "name": "Kazerun",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.61274,
+    "longitude": 51.598299
+  },
+  {
+    "name": "Asalouyeh Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.482359,
+    "longitude": 52.612897
+  },
+  {
+    "name": "Borazjan Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.266666,
+    "longitude": 51.200001
+  },
+  {
+    "name": "Baft Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.2342,
+    "longitude": 56.606899
+  },
+  {
+    "name": "Dolab Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.542105,
+    "longitude": 55.289185
+  },
+  {
+    "name": "Gasheh Police Station Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.525349,
+    "longitude": 54.838612
+  },
+  {
+    "name": "Navy Specialized Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.16664,
+    "longitude": 56.22977
+  },
+  {
+    "name": "Shahid Bahonar Port Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.150607,
+    "longitude": 56.215881
+  },
+  {
+    "name": "Bandar Khamir Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.952129,
+    "longitude": 55.575556
+  },
+  {
+    "name": "KFZO Villa Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.532226,
+    "longitude": 54.035055
+  },
+  {
+    "name": "Lar Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.655003,
+    "longitude": 54.292138
+  },
+  {
+    "name": "Kish Police Command Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.536419,
+    "longitude": 54.002734
+  },
+  {
+    "name": "Kish Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 26.558677,
+    "longitude": 53.984542
+  },
+  {
+    "name": "Tohid Hospital Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.820197,
+    "longitude": 52.33149
+  },
+  {
+    "name": "Bushehr Nuclear Power Plant Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.836321,
+    "longitude": 50.888297
+  },
+  {
+    "name": "Ganaveh Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.576775,
+    "longitude": 50.5558
+  },
+  {
+    "name": "PetroIran Bang Heliport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.738814,
+    "longitude": 50.351344
+  },
+  {
+    "name": "Police Officers Club Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.198906,
+    "longitude": 48.116477
+  },
+  {
+    "name": "KOC Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.059166,
+    "longitude": 48.054752
+  },
+  {
+    "name": "New Ahmadi Hospital Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.097046,
+    "longitude": 48.076767
+  },
+  {
+    "name": "Old Ahmadi Hospital Heliport 1",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.090992,
+    "longitude": 48.054369
+  },
+  {
+    "name": "Old Ahmadi Hospital Heliport 2",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.090414,
+    "longitude": 48.053885
+  },
+  {
+    "name": "Marina Waves Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.345723,
+    "longitude": 48.068869
+  },
+  {
+    "name": "Al Adan Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.136457,
+    "longitude": 48.090397
+  },
+  {
+    "name": "Qaruh Island Helipad",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.817665,
+    "longitude": 48.776211
+  },
+  {
+    "name": "Umm al Maradim Island Helipad",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.6791,
+    "longitude": 48.65144
+  },
+  {
+    "name": "Kubbar Island Helipad",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.0709,
+    "longitude": 48.49282
+  },
+  {
+    "name": "Ouha Island Helipad",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.3777,
+    "longitude": 48.44129
+  },
+  {
+    "name": "Failaka Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.44298,
+    "longitude": 48.2856
+  },
+  {
+    "name": "Failaka North Helipad",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.45908,
+    "longitude": 48.30088
+  },
+  {
+    "name": "Abdullah bin Umm Maktum Mosque Helipad",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.43351,
+    "longitude": 48.26882
+  },
+  {
+    "name": "Kuwait Air Sports Committee Airport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.567798,
+    "longitude": 48.389652
+  },
+  {
+    "name": "Skydive Kuwait Airport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.60425,
+    "longitude": 48.3093
+  },
+  {
+    "name": "Sabiya Thermal Power Plant Heliport (Central)",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.5685,
+    "longitude": 48.16807
+  },
+  {
+    "name": "Sabiya Thermal Power Plant Heliport (Entrance)",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.573784,
+    "longitude": 48.170929
+  },
+  {
+    "name": "Sabiya Thermal Power Plant Heliport (West)",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.567392,
+    "longitude": 48.156949
+  },
+  {
+    "name": "Messila Palace Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.24539,
+    "longitude": 48.09856
+  },
+  {
+    "name": "Shuaiba Industrial Medical Center Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 29.03371,
+    "longitude": 48.12293
+  },
+  {
+    "name": "Kuwait Motor Town Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.92215,
+    "longitude": 48.13767
+  },
+  {
+    "name": "Al Zour Refinery Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.70825,
+    "longitude": 48.29629
+  },
+  {
+    "name": "Khiran City Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.66355,
+    "longitude": 48.27742
+  },
+  {
+    "name": "Bahrain International Airport",
+    "iata_code": "BAH",
+    "country": "BH",
+    "latitude": 26.267295,
+    "longitude": 50.63764
+  },
+  {
+    "name": "Sheik Isa Air Base",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 25.9184,
+    "longitude": 50.590599
+  },
+  {
+    "name": "Sakhir Air Base",
+    "iata_code": "",
+    "country": "BH",
+    "latitude": 26.034533,
+    "longitude": 50.524544
+  },
+  {
+    "name": "Aramco Ras Khafji Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.3899,
+    "longitude": 48.516499
+  },
+  {
+    "name": "King Abdulaziz Naval Base",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.941601,
+    "longitude": 49.704102
+  },
+  {
+    "name": "Abu Ali Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.318733,
+    "longitude": 49.586749
+  },
+  {
+    "name": "Al-Ahsa International Airport",
+    "iata_code": "HOF",
+    "country": "SA",
+    "latitude": 25.285299,
+    "longitude": 49.485199
+  },
+  {
+    "name": "Abqaiq Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.911301,
+    "longitude": 49.591202
+  },
+  {
+    "name": "King Fahd International Airport",
+    "iata_code": "DMM",
+    "country": "SA",
+    "latitude": 26.4691,
+    "longitude": 49.798209
+  },
+  {
+    "name": "King Abdulaziz Air Base",
+    "iata_code": "DHA",
+    "country": "SA",
+    "latitude": 26.2654,
+    "longitude": 50.152
+  },
+  {
+    "name": "Haradh Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 24.09653,
+    "longitude": 49.22432
+  },
+  {
+    "name": "Jubail Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.039,
+    "longitude": 49.405102
+  },
+  {
+    "name": "Old Khurais Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.069599,
+    "longitude": 48.194901
+  },
+  {
+    "name": "Nariya Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.5,
+    "longitude": 48.5
+  },
+  {
+    "name": "Ras Mishab Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.079599,
+    "longitude": 48.611
+  },
+  {
+    "name": "Ras Tanura Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.723101,
+    "longitude": 50.0308
+  },
+  {
+    "name": "Ras Tanajib Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.8678,
+    "longitude": 48.7691
+  },
+  {
+    "name": "Udhailiyah Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.1511,
+    "longitude": 49.3288
+  },
+  {
+    "name": "Mahmudabad Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 30.0,
+    "longitude": 53.71149826049805
+  },
+  {
+    "name": "Bahregan Airport",
+    "iata_code": "IAQ",
+    "country": "IR",
+    "latitude": 29.840099,
+    "longitude": 50.272701
+  },
+  {
+    "name": "Abu Musa Island Airport",
+    "iata_code": "AEU",
+    "country": "IR",
+    "latitude": 25.8757,
+    "longitude": 55.033001
+  },
+  {
+    "name": "Bushehr Airport",
+    "iata_code": "BUZ",
+    "country": "IR",
+    "latitude": 28.9447994232,
+    "longitude": 50.8345985413
+  },
+  {
+    "name": "Bastak Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 27.21269989013672,
+    "longitude": 54.318599700927734
+  },
+  {
+    "name": "Jam Airport",
+    "iata_code": "KNR",
+    "country": "IR",
+    "latitude": 27.820499,
+    "longitude": 52.3522
+  },
+  {
+    "name": "Kish International Airport",
+    "iata_code": "KIH",
+    "country": "IR",
+    "latitude": 26.525427,
+    "longitude": 53.980462
+  },
+  {
+    "name": "Bandar Lengeh International Airport",
+    "iata_code": "BDH",
+    "country": "IR",
+    "latitude": 26.532283,
+    "longitude": 54.82484
+  },
+  {
+    "name": "Persian Gulf International Airport",
+    "iata_code": "PGU",
+    "country": "IR",
+    "latitude": 27.379601,
+    "longitude": 52.737701
+  },
+  {
+    "name": "Khark Airport",
+    "iata_code": "KHK",
+    "country": "IR",
+    "latitude": 29.260503,
+    "longitude": 50.322193
+  },
+  {
+    "name": "Siri Airport",
+    "iata_code": "SXI",
+    "country": "IR",
+    "latitude": 25.908899,
+    "longitude": 54.539398
+  },
+  {
+    "name": "Lavan Airport",
+    "iata_code": "LVP",
+    "country": "IR",
+    "latitude": 26.810742,
+    "longitude": 53.354302
+  },
+  {
+    "name": "Bandar Abbas International Airport",
+    "iata_code": "BND",
+    "country": "IR",
+    "latitude": 27.2183,
+    "longitude": 56.3778
+  },
+  {
+    "name": "Havadarya Airport",
+    "iata_code": "HDR",
+    "country": "IR",
+    "latitude": 27.1583,
+    "longitude": 56.172501
+  },
+  {
+    "name": "Qeshm International Airport",
+    "iata_code": "GSM",
+    "country": "IR",
+    "latitude": 26.754639,
+    "longitude": 55.902353
+  },
+  {
+    "name": "Sirjan Airport",
+    "iata_code": "SYJ",
+    "country": "IR",
+    "latitude": 29.5509,
+    "longitude": 55.672699
+  },
+  {
+    "name": "Darab Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 28.7216,
+    "longitude": 54.441299
+  },
+  {
+    "name": "Fasa Airport",
+    "iata_code": "FAZ",
+    "country": "IR",
+    "latitude": 28.8918,
+    "longitude": 53.723301
+  },
+  {
+    "name": "Jahrom Airport",
+    "iata_code": "JAR",
+    "country": "IR",
+    "latitude": 28.586700439499996,
+    "longitude": 53.5791015625
+  },
+  {
+    "name": "Lar Airport",
+    "iata_code": "LRR",
+    "country": "IR",
+    "latitude": 27.6747,
+    "longitude": 54.383301
+  },
+  {
+    "name": "Zarqan Airport",
+    "iata_code": "",
+    "country": "IR",
+    "latitude": 29.754728,
+    "longitude": 52.693691
+  },
+  {
+    "name": "Lamerd Airport",
+    "iata_code": "LFM",
+    "country": "IR",
+    "latitude": 27.3727,
+    "longitude": 53.188801
+  },
+  {
+    "name": "Shiraz Shahid Dastghaib International Airport",
+    "iata_code": "SYZ",
+    "country": "IR",
+    "latitude": 29.5392,
+    "longitude": 52.589802
+  },
+  {
+    "name": "Patton Army Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.864548,
+    "longitude": 48.150941
+  },
+  {
+    "name": "Ras al-Qulayah Naval Base Heliport",
+    "iata_code": "",
+    "country": "KW",
+    "latitude": 28.864500045776367,
+    "longitude": 48.27280044555664
+  },
+  {
+    "name": "Dibba Airport",
+    "iata_code": "BYB",
+    "country": "OM",
+    "latitude": 25.614229,
+    "longitude": 56.2444
+  },
+  {
+    "name": "Madha Airport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 25.28637,
+    "longitude": 56.342934
+  },
+  {
+    "name": "Rawdah Airstrip",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 25.86257,
+    "longitude": 56.28591
+  },
+  {
+    "name": "Umm al Ghanam Airport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.36779,
+    "longitude": 56.3568
+  },
+  {
+    "name": "Umm al Ghanam Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.3656,
+    "longitude": 56.35747
+  },
+  {
+    "name": "Limah Airstrip",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 25.94993,
+    "longitude": 56.41864
+  },
+  {
+    "name": "Tibat Border Crossing Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.054464,
+    "longitude": 56.087372
+  },
+  {
+    "name": "Wab al Sebil Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.0502,
+    "longitude": 56.3357
+  },
+  {
+    "name": "Al Haqt Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.12782,
+    "longitude": 56.25977
+  },
+  {
+    "name": "Dibba al Baya Hospital Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 25.64326,
+    "longitude": 56.24909
+  },
+  {
+    "name": "Khasab Hospital Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.18199,
+    "longitude": 56.25193
+  },
+  {
+    "name": "Camp Khasab Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.18016,
+    "longitude": 56.25135
+  },
+  {
+    "name": "Bukha Hospital Heliport",
+    "iata_code": "",
+    "country": "OM",
+    "latitude": 26.14261,
+    "longitude": 56.15234
+  },
+  {
+    "name": "Abu Dhabi Northeast Airport - Suweihan Air Base",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.526793,
+    "longitude": 54.974812
+  },
+  {
+    "name": "Zayed International Airport",
+    "iata_code": "AUH",
+    "country": "AE",
+    "latitude": 24.440966,
+    "longitude": 54.649237
+  },
+  {
+    "name": "Al Bateen Executive Airport",
+    "iata_code": "AZI",
+    "country": "AE",
+    "latitude": 24.427062,
+    "longitude": 54.459866
+  },
+  {
+    "name": "Futaysi Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.378768,
+    "longitude": 54.316025
+  },
+  {
+    "name": "KIZAD Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.726505,
+    "longitude": 54.832259
+  },
+  {
+    "name": "Al Hamra Auxiliary Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.073999,
+    "longitude": 52.4636
+  },
+  {
+    "name": "Jebel Dhanna Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.187755,
+    "longitude": 52.613934
+  },
+  {
+    "name": "Al Ain International Airport",
+    "iata_code": "AAN",
+    "country": "AE",
+    "latitude": 24.2617,
+    "longitude": 55.6092
+  },
+  {
+    "name": "Al Dhafra Air Base",
+    "iata_code": "DHF",
+    "country": "AE",
+    "latitude": 24.248199462900004,
+    "longitude": 54.547698974599996
+  },
+  {
+    "name": "Qarnayn Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.930599,
+    "longitude": 52.855099
+  },
+  {
+    "name": "Arzanah Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.780872,
+    "longitude": 52.559871
+  },
+  {
+    "name": "Das Island Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.138234,
+    "longitude": 52.874429
+  },
+  {
+    "name": "Zirku Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.862492,
+    "longitude": 53.077141
+  },
+  {
+    "name": "Sir Bani Yas Airport",
+    "iata_code": "XSB",
+    "country": "AE",
+    "latitude": 24.283611,
+    "longitude": 52.580278
+  },
+  {
+    "name": "Dubai International Airport",
+    "iata_code": "DXB",
+    "country": "AE",
+    "latitude": 25.24979,
+    "longitude": 55.370992
+  },
+  {
+    "name": "Delma Airport",
+    "iata_code": "ZDY",
+    "country": "AE",
+    "latitude": 24.51,
+    "longitude": 52.3352
+  },
+  {
+    "name": "Al Minhad Air Base",
+    "iata_code": "NHD",
+    "country": "AE",
+    "latitude": 25.0268001556,
+    "longitude": 55.3661994934
+  },
+  {
+    "name": "Al Maktoum International Airport",
+    "iata_code": "DWC",
+    "country": "AE",
+    "latitude": 24.896171,
+    "longitude": 55.16235
+  },
+  {
+    "name": "Emirates Falcons Aeroclub Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 24.46611,
+    "longitude": 55.625
+  },
+  {
+    "name": "Fujairah International Airport",
+    "iata_code": "FJR",
+    "country": "AE",
+    "latitude": 25.108411,
+    "longitude": 56.328061
+  },
+  {
+    "name": "Jazirah Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.664957,
+    "longitude": 55.774413
+  },
+  {
+    "name": "Ras Al Khaimah International Airport",
+    "iata_code": "RKT",
+    "country": "AE",
+    "latitude": 25.613501,
+    "longitude": 55.938801
+  },
+  {
+    "name": "Al Saqr Field",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.752944,
+    "longitude": 55.959234
+  },
+  {
+    "name": "Sharjah International Airport",
+    "iata_code": "SHJ",
+    "country": "AE",
+    "latitude": 25.3286,
+    "longitude": 55.5172
+  },
+  {
+    "name": "Sir Abu Nu'ayr Airport",
+    "iata_code": "",
+    "country": "AE",
+    "latitude": 25.21679,
+    "longitude": 54.233447
+  },
+  {
+    "name": "Buraimi Airport",
+    "iata_code": "RMB",
+    "country": "OM",
+    "latitude": 24.241626,
+    "longitude": 55.783674
+  },
+  {
+    "name": "Khasab Airport",
+    "iata_code": "KHS",
+    "country": "OM",
+    "latitude": 26.171,
+    "longitude": 56.240601
+  },
+  {
+    "name": "Suhar International Airport",
+    "iata_code": "OHS",
+    "country": "OM",
+    "latitude": 24.38604,
+    "longitude": 56.62541
+  },
+  {
+    "name": "Umm Al-Shokhot Airport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.700539,
+    "longitude": 51.36303
+  },
+  {
+    "name": "Doha International Airport",
+    "iata_code": "DIA",
+    "country": "QA",
+    "latitude": 25.259431,
+    "longitude": 51.565528
+  },
+  {
+    "name": "Al Udeid Air Base",
+    "iata_code": "XJD",
+    "country": "QA",
+    "latitude": 25.1173000336,
+    "longitude": 51.3149986267
+  },
+  {
+    "name": "Al Khawr Airport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.629601,
+    "longitude": 51.506699
+  },
+  {
+    "name": "Hamad International Airport",
+    "iata_code": "DOH",
+    "country": "QA",
+    "latitude": 25.273056,
+    "longitude": 51.608056
+  },
+  {
+    "name": "Dukhan / Tamim Airbase",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.467722,
+    "longitude": 50.999479
+  },
+  {
+    "name": "Abu Samra Border Post Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 24.747763,
+    "longitude": 50.851541
+  },
+  {
+    "name": "Banana Island Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.296837,
+    "longitude": 51.639031
+  },
+  {
+    "name": "Al Wakrah Hospital Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.166077,
+    "longitude": 51.589824
+  },
+  {
+    "name": "Hamad Emergency Heliport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.292433,
+    "longitude": 51.501029
+  },
+  {
+    "name": "JW Marriott Marquis City Center Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.325096,
+    "longitude": 51.533126
+  },
+  {
+    "name": "Hamad Medical Corporation Helipad 3",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.292018,
+    "longitude": 51.503387
+  },
+  {
+    "name": "Al Faisal Tower Heliport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.325566,
+    "longitude": 51.526302
+  },
+  {
+    "name": "Mesaleed Airfield",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 24.988976,
+    "longitude": 51.50031
+  },
+  {
+    "name": "Al Rayyan Air Defense Base Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.281734,
+    "longitude": 51.298514
+  },
+  {
+    "name": "Hilton Salwa Beach Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 24.8378,
+    "longitude": 50.8583
+  },
+  {
+    "name": "Umm Garn Airport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.753967,
+    "longitude": 51.292675
+  },
+  {
+    "name": "Halul Heliport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.67712,
+    "longitude": 52.41562
+  },
+  {
+    "name": "Dukhan Airport",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.40051,
+    "longitude": 50.826614
+  },
+  {
+    "name": "Military Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 24.895392,
+    "longitude": 51.030442
+  },
+  {
+    "name": "Military Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.005234,
+    "longitude": 50.989609
+  },
+  {
+    "name": "Zekreet Cluster-2 Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.529985,
+    "longitude": 50.82057
+  },
+  {
+    "name": "Cuban Hospital Helipad",
+    "iata_code": "",
+    "country": "QA",
+    "latitude": 25.440058,
+    "longitude": 50.860357
+  },
+  {
+    "name": "Ras Saffaniyah Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.99361,
+    "longitude": 48.775276
+  },
+  {
+    "name": "Al Hasa Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.406473,
+    "longitude": 49.484428
+  },
+  {
+    "name": "Ugtah Highway Strip",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 24.794468,
+    "longitude": 50.742459
+  },
+  {
+    "name": "Khurais Airport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.26533,
+    "longitude": 48.178333
+  },
+  {
+    "name": "KJO Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.419196,
+    "longitude": 48.512217
+  },
+  {
+    "name": "Khafji General Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.42003,
+    "longitude": 48.47279
+  },
+  {
+    "name": "Khafji Harbor Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.41919,
+    "longitude": 48.52471
+  },
+  {
+    "name": "Al Khafji Corniche Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.47197,
+    "longitude": 48.49698
+  },
+  {
+    "name": "As Saffaniyah Aramco Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 28.00016,
+    "longitude": 48.77174
+  },
+  {
+    "name": "Tanajib Aramco Admin Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.88555,
+    "longitude": 48.81537
+  },
+  {
+    "name": "Tanajib Aramco Gas Plant Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.81722,
+    "longitude": 48.86841
+  },
+  {
+    "name": "Tanajib Aramco Marine Port Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.76995,
+    "longitude": 48.87706
+  },
+  {
+    "name": "Manifa Aramco Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.60269,
+    "longitude": 48.93459
+  },
+  {
+    "name": "Prince Sultan College Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.32642,
+    "longitude": 50.01613
+  },
+  {
+    "name": "King Fahd Military Medical City Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.31996,
+    "longitude": 50.0217
+  },
+  {
+    "name": "Johns Hopkins Aramco Healthcare Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.70702,
+    "longitude": 50.08071
+  },
+  {
+    "name": "Tanajib Aramco Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.88877,
+    "longitude": 48.80332
+  },
+  {
+    "name": "Al-Kharsaniyah Medical Center Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.298502,
+    "longitude": 49.266098
+  },
+  {
+    "name": "Ras Al Khayr Emergency Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.495983,
+    "longitude": 49.118295
+  },
+  {
+    "name": "Saudi Aramco Wasit Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.1139,
+    "longitude": 49.29449
+  },
+  {
+    "name": "Deffi Park Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.14623,
+    "longitude": 49.53431
+  },
+  {
+    "name": "Abu Ali Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 27.30009,
+    "longitude": 49.67231
+  },
+  {
+    "name": "Juaymah Offshore Platform Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.916113,
+    "longitude": 50.020728
+  },
+  {
+    "name": "Ras Tanura Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.7064,
+    "longitude": 50.09118
+  },
+  {
+    "name": "Security Forces Medical City Easter Province Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.30345,
+    "longitude": 50.20081
+  },
+  {
+    "name": "Al-Azizia Palace Outer Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.13395,
+    "longitude": 50.16237
+  },
+  {
+    "name": "Al-Azizia Palace Inner Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 26.13434,
+    "longitude": 50.16537
+  },
+  {
+    "name": "Saudi Aramco UDH Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.13761,
+    "longitude": 49.30134
+  },
+  {
+    "name": "John Hopkins Aramco Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.41848,
+    "longitude": 49.54403
+  },
+  {
+    "name": "Almoosa Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.438285,
+    "longitude": 49.571775
+  },
+  {
+    "name": "Dallah Hospital Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 25.38547,
+    "longitude": 49.57097
+  },
+  {
+    "name": "Salwa Border Guard Sector Heliport",
+    "iata_code": "",
+    "country": "SA",
+    "latitude": 24.80944,
+    "longitude": 50.74736
+  }
+]
